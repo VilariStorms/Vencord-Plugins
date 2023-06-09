@@ -7,6 +7,7 @@ Any and all contributions/requests are welcome - just don't expect top quality!
 ## Currently working plugins
 
 - CumSay - Your favorite sperm is now on vencord!
+- HiddenLinks - Lets you hide the real source of a link preview embed.
 
 
 
