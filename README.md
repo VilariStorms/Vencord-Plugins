@@ -8,7 +8,7 @@ Any and all contributions/requests are welcome - just don't expect top quality!
 
 - CumSay - Your favorite sperm is now on vencord!
 - HiddenLinks - Lets you hide the real source of a link preview embed.
-
+- TypeForever - Let's you appear to be typing for as long as you want with a slash command
 
 
 ## Todo
